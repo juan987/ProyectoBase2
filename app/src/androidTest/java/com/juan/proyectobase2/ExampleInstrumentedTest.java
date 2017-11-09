@@ -1,4 +1,4 @@
-package com.juan.proyectobase;
+package com.juan.proyectobase2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
